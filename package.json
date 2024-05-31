@@ -1,6 +1,6 @@
 {
   "name": "envstack",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Simple multi-environment configuration for typed environment variables in TypeScript projects.",
   "author": "Matt Balmer <contact@mattbalmer.com>",
   "license": "MIT",

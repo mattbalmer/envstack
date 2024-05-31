@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": false,
+    "skipLibCheck": true,
+    "target": "es2022",
+    "module": "commonjs",
+    "outDir": "./dist/",
+    "baseUrl": "./source",
+    "lib": ["es2022"],
+    "declaration": true
+  },
+  "include": [
+    "./source/**/*"
+  ]
+}

@@ -1,4 +1,4 @@
-# ts-env
+# envstack
 
 Simple multi-environment configuration for typed environment variables in TypeScript projects.
 

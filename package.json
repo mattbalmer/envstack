@@ -1,0 +1,7 @@
+{
+  "name": "ts-env",
+  "version": "0.0.1",
+  "description": "Simple multi-environment configuration for typed environment variables in TypeScript projects.",
+  "author": "Matt Balmer <contact@mattbalmer.com>",
+  "license": "MIT"
+}

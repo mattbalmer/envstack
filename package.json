@@ -1,6 +1,6 @@
 {
   "name": "ts-env",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Simple multi-environment configuration for typed environment variables in TypeScript projects.",
   "author": "Matt Balmer <contact@mattbalmer.com>",
   "license": "MIT",
@@ -13,5 +13,6 @@
   "devDependencies": {
     "@types/node": "^20.12.13",
     "typescript": "^5.4.5"
-  }
+  },
+  "packageManager": "yarn@4.2.2"
 }

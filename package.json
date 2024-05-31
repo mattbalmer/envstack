@@ -1,9 +1,11 @@
 {
   "name": "ts-env",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple multi-environment configuration for typed environment variables in TypeScript projects.",
   "author": "Matt Balmer <contact@mattbalmer.com>",
   "license": "MIT",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
   "scripts": {
     "build": "rm -rf ./dist && tsc",
     "start": "yarn build"

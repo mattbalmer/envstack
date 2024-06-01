@@ -14,9 +14,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"envstack@workspace:.":
+"stackenv@workspace:.":
   version: 0.0.0-use.local
-  resolution: "envstack@workspace:."
+  resolution: "stackenv@workspace:."
   dependencies:
     "@types/node": "npm:^20.12.13"
     typescript: "npm:^5.4.5"

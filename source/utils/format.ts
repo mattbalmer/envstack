@@ -33,6 +33,7 @@ export const parse = (raw: string) => {
   return env;
 }
 
-export const transformEnv = <E extends object>(env: E, options: EnvStackOptions): E => {
-
+export const transformEnv = <E extends object>(env: object, options: EnvStackOptions): E => {
+  // TODO now that ts-reflect isn't looking like an option
+  return env as E;
 }
